@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezlTtwAy0MEs8B39uMVlzdebiJEYMt1yLW5EBH3Fa0Vrw9v2AtniCUwdz+bfcZkA/iRkzDOS8JXb/l4recDoGQ==",
+  "success": true,
+  "projectFilePath": "E:\\camport3\\sample\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apple\\.nuget\\packages\\activiz.net.x64\\5.8.0\\activiz.net.x64.5.8.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“Activiz.NET.x64 5.8.0”。此包可能与项目不完全兼容。",
+      "libraryId": "Activiz.NET.x64",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

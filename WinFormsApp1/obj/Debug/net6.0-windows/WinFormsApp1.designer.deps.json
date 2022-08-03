@@ -1,0 +1,32 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Activiz.NET.x64/5.8.0": {
+        "runtime": {
+          "lib/net20/Kitware.VTK.dll": {
+            "assemblyVersion": "5.8.0.607",
+            "fileVersion": "5.8.0.607"
+          },
+          "lib/net20/Kitware.mummy.Runtime.dll": {
+            "assemblyVersion": "1.0.2.599",
+            "fileVersion": "1.0.2.599"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activiz.NET.x64/5.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xx0JrEim6L2CMosfWaWBKcr5VnKw2xULZCtmrOWFYzD5yLjJh/xoz7qvl2lLuSB1zmoNHxgPow6iA2XxfpOUYw==",
+      "path": "activiz.net.x64/5.8.0",
+      "hashPath": "activiz.net.x64.5.8.0.nupkg.sha512"
+    }
+  }
+}
